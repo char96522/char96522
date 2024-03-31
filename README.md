@@ -34,27 +34,8 @@ This is my protfolio project having cool design
 - Cross-Platform Compatibility
   
 <br />
+https://github.com/char96522/AFlix
+<br />
 https://youtu.be/iTZCZnB0Vgw?si=Ck1R0jsgGAZtfFuU
-<br />
 
-
-#### Loan Book
-
-This sample Application to track the loan lended or borrowed
-<br />
-https://github.com/vnrtumu/loanbook
-<br />
-
-
-#### Restaurent Applications
-
-This is a food Delivery appliation for cloud kitchen.
-<br />
-https://github.com/vnrtumu/nawabs
-<br />
-
-
-Apart from these i worked on few other applications like:
-
-#### Huddle Mobile Application
 
