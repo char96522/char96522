@@ -34,7 +34,7 @@ This is my protfolio project having cool design
 - Cross-Platform Compatibility
   
 <br />
-https://github.com/vnrtumu/thumu
+https://youtu.be/iTZCZnB0Vgw?si=Ck1R0jsgGAZtfFuU
 <br />
 
 
