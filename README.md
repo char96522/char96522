@@ -4,15 +4,35 @@
 
 <h2>About Me:</h2>
 <p>
-I am having overall 3.6 years of experience in writing web apps and Mobile Applicaitions.  Has extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React native, Laravel and Redux. 
+I am having an years of experience in working Mobile Applicaitions.  Has extensive knowledge of front-end JavaScript and APIs as well as significant experience with popular frameworks and libraries like React native and Redux. 
 </p>
 
 <h4> Sample React Native projects: </h4>
 
 
-#### Firebase Social Connect Application
+#### AFlix Mobile App
 
-This the firebase Application with Firebase Authentication, Google Login and Social Login
+This is my protfolio project having cool design 
+- React Native
+
+- React Native Navigation
+
+- TMDB Api
+
+- Image Carousel
+
+- Searching functionality
+
+- Responsiveness
+
+- Hero Icons
+
+- Linear Gradient
+
+- TailwindCSS (Nativewind)
+
+- Cross-Platform Compatibility
+  
 <br />
 https://github.com/vnrtumu/thumu
 <br />
